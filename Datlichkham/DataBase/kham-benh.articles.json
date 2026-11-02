@@ -1,0 +1,545 @@
+[{
+  "_id": {
+    "$oid": "6a118d1fa3e8d8c97ef100cc"
+  },
+  "title": "Hiểu Đúng Về Bệnh Tiểu Đường Type 2: Nguyên Nhân Và Cách Phòng Tránh",
+  "content": "\n            <h3>1. Bệnh tiểu đường Type 2 là gì?</h3>\n            <p>Tiểu đường type 2 là tình trạng cơ thể không sử dụng hiệu quả insulin, dẫn đến lượng đường trong máu cao. Bệnh lý này trước đây thường xuất hiện ở người lớn tuổi, nhưng hiện nay đang có xu hướng trẻ hóa.</p>\n            <h3>2. Nguyên nhân</h3>\n            <p>Do thói quen sinh hoạt không lành mạnh, thừa cân béo phì, và ít vận động.</p>\n            <h3>3. Cách phòng tránh</h3>\n            <ul>\n                <li>Duy trì cân nặng hợp lý.</li>\n                <li>Tập thể dục ít nhất 30 phút mỗi ngày.</li>\n                <li>Hạn chế đồ ngọt và thức ăn nhanh.</li>\n            </ul>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1505576391880-b3f9d713dc4f?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Tiểu đường",
+    "Dinh dưỡng",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 120,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:18:55.439Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:18:55.439Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc83"
+  },
+  "title": "Hiểu Đúng Về Bệnh Tiểu Đường Type 2: Nguyên Nhân Và Cách Phòng Tránh",
+  "content": "\n            <h3>1. Bệnh tiểu đường Type 2 là gì?</h3>\n            <p>Tiểu đường type 2 là tình trạng cơ thể không sử dụng hiệu quả insulin, dẫn đến lượng đường trong máu cao. Bệnh lý này trước đây thường xuất hiện ở người lớn tuổi, nhưng hiện nay đang có xu hướng trẻ hóa.</p>\n            <h3>2. Nguyên nhân</h3>\n            <p>Do thói quen sinh hoạt không lành mạnh, thừa cân béo phì, và ít vận động.</p>\n            <h3>3. Cách phòng tránh</h3>\n            <ul>\n                <li>Duy trì cân nặng hợp lý.</li>\n                <li>Tập thể dục ít nhất 30 phút mỗi ngày.</li>\n                <li>Hạn chế đồ ngọt và thức ăn nhanh.</li>\n            </ul>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1505576391880-b3f9d713dc4f?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Tiểu đường",
+    "Dinh dưỡng",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 120,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.538Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.538Z"
+  },
+  "slug": "hieu-dung-ve-benh-tieu-duong-type-2-nguyen-nhan-va-cach-phong-tranh-5538",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc86"
+  },
+  "title": "5 Dấu Hiệu Cảnh Báo Bệnh Tim Mạch Bạn Không Nên Bỏ Qua",
+  "content": "\n            <p>Bệnh tim mạch là nguyên nhân gây tử vong hàng đầu trên thế giới. Dưới đây là 5 dấu hiệu bạn cần lưu ý:</p>\n            <ol>\n                <li>Đau tức ngực, đặc biệt là khi gắng sức.</li>\n                <li>Khó thở, mệt mỏi không rõ nguyên nhân.</li>\n                <li>Chóng mặt, ngất xỉu.</li>\n                <li>Nhịp tim đập nhanh hoặc không đều.</li>\n                <li>Phù nề ở chân, mắt cá chân.</li>\n            </ol>\n            <p>Nếu có bất kỳ dấu hiệu nào trên, hãy đến gặp bác sĩ chuyên khoa tim mạch ngay lập tức.</p>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Tim mạch",
+    "Phòng bệnh",
+    "Triệu chứng"
+  ],
+  "status": "published",
+  "views": 345,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.542Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.542Z"
+  },
+  "slug": "5-dau-hieu-canh-bao-benh-tim-mach-ban-khong-nen-bo-qua-5542",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc88"
+  },
+  "title": "Lợi Ích Của Việc Khám Sức Khỏe Tổng Quát Định Kỳ",
+  "content": "\n            <p>Rất nhiều người chỉ đi khám khi có bệnh. Tuy nhiên, khám sức khỏe tổng quát định kỳ (6 tháng hoặc 1 năm/lần) mang lại nhiều lợi ích to lớn:</p>\n            <ul>\n                <li>Phát hiện sớm các bệnh lý tiềm ẩn, đặc biệt là ung thư.</li>\n                <li>Tiết kiệm chi phí và thời gian điều trị về lâu dài.</li>\n                <li>Được bác sĩ tư vấn về chế độ ăn uống, sinh hoạt phù hợp với thể trạng.</li>\n            </ul>\n            <p>Đừng để quá muộn, hãy bảo vệ sức khỏe của bạn ngay hôm nay!</p>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Khám định kỳ",
+    "Sức khỏe",
+    "Kiến thức"
+  ],
+  "status": "published",
+  "views": 210,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.543Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.543Z"
+  },
+  "slug": "loi-ich-cua-viec-kham-suc-khoe-tong-quat-dinh-ky-5543",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc8a"
+  },
+  "title": "Trầm Cảm Hậu Sản: Nỗi Niềm Của Người Làm Mẹ",
+  "content": "\n            <p>Trầm cảm hậu sản là một chứng bệnh tâm lý thường gặp ở phụ nữ sau sinh nhưng thường bị xem nhẹ.</p>\n            <h3>Biểu hiện:</h3>\n            <p>Hay khóc, buồn bã vô cớ, mất ngủ, cảm giác tội lỗi hoặc không đủ khả năng chăm sóc con.</p>\n            <h3>Cách vượt qua:</h3>\n            <p>Người mẹ cần sự thấu hiểu, chia sẻ công việc từ người chồng và gia đình. Trong trường hợp nặng, cần có sự can thiệp của bác sĩ tâm lý để tránh hậu quả đáng tiếc.</p>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1555252115-385002ba14a2?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Tâm lý",
+    "Mẹ và bé",
+    "Trầm cảm"
+  ],
+  "status": "published",
+  "views": 560,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.543Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.543Z"
+  },
+  "slug": "tram-cam-hau-san-noi-niem-cua-nguoi-lam-me-5543",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc8c"
+  },
+  "title": "Chế Độ Ăn Uống Tốt Nhất Dành Cho Bệnh Nhân Huyết Áp Cao",
+  "content": "\n            <p>Người bệnh cao huyết áp cần đặc biệt chú ý đến thực đơn hằng ngày để kiểm soát bệnh tình:</p>\n            <ul>\n                <li><strong>Giảm muối:</strong> Là yếu tố quan trọng nhất. Nên ăn nhạt.</li>\n                <li><strong>Tăng cường rau xanh và trái cây:</strong> Chứa nhiều Kali giúp hạ huyết áp.</li>\n                <li><strong>Tránh mỡ động vật:</strong> Thay bằng dầu thực vật, ăn cá nhiều hơn thịt.</li>\n            </ul>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1490645935967-10de6ba82916?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Huyết áp",
+    "Dinh dưỡng",
+    "Chế độ ăn"
+  ],
+  "status": "published",
+  "views": 89,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.544Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.544Z"
+  },
+  "slug": "che-do-an-uong-tot-nhat-danh-cho-benh-nhan-huyet-ap-cao-5544",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc8e"
+  },
+  "title": "Bệnh Mùa Hè: Viêm Não Nhật Bản B Ở Trẻ Em",
+  "content": "\n            <p>Vào mùa hè, trẻ em dễ mắc các bệnh truyền nhiễm, trong đó nguy hiểm nhất là Viêm não Nhật Bản B.</p>\n            <h3>Đường lây truyền:</h3>\n            <p>Qua muỗi chích (muỗi Culex).</p>\n            <h3>Triệu chứng:</h3>\n            <p>Sốt cao đột ngột, đau đầu, buồn nôn, co giật, lú lẫn.</p>\n            <h3>Phòng bệnh:</h3>\n            <p>Tiêm vắc-xin là biện pháp hiệu quả nhất. Ngoài ra, cần ngủ màn, diệt muỗi, giữ gìn vệ sinh môi trường.</p>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Nhi khoa",
+    "Bệnh truyền nhiễm",
+    "Mùa hè"
+  ],
+  "status": "published",
+  "views": 450,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.545Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.545Z"
+  },
+  "slug": "benh-mua-he-viem-nao-nhat-ban-b-o-tre-em-5545",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc90"
+  },
+  "title": "Phục Hồi Chức Năng Sau Đột Quỵ: Chìa Khóa Vàng Giúp Bệnh Nhân Trở Lại",
+  "content": "\n            <p>Sau khi được cứu sống từ cơn đột quỵ, bệnh nhân thường đối mặt với các di chứng như liệt nửa người, khó nói...</p>\n            <p><strong>Tại sao cần phục hồi chức năng sớm?</strong></p>\n            <p>Việc tập luyện vật lý trị liệu sớm (ngay trong 24-48 giờ đầu nếu bác sĩ cho phép) sẽ giúp não bộ thiết lập lại các liên kết mới, từ đó phục hồi khả năng vận động nhanh hơn.</p>\n            <p>Quá trình này đòi hỏi sự kiên nhẫn cực lớn từ cả bệnh nhân và người nhà.</p>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Thần kinh",
+    "Đột quỵ",
+    "Phục hồi"
+  ],
+  "status": "published",
+  "views": 310,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.545Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.545Z"
+  },
+  "slug": "phuc-hoi-chuc-nang-sau-dot-quy-chia-khoa-vang-giup-benh-nhan-tro-lai-5545",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc92"
+  },
+  "title": "Nhận Biết Sớm Các Triệu Chứng Của Ung Thư Đại Trực Tràng",
+  "content": "\n            <p>Ung thư đại trực tràng đang có xu hướng gia tăng. Việc nhận biết sớm giúp cơ hội chữa khỏi lên đến 90%.</p>\n            <ul>\n                <li>Rối loạn tiêu hóa kéo dài (táo bón xen lẫn tiêu chảy).</li>\n                <li>Đi ngoài phân có máu.</li>\n                <li>Đau quặn bụng không rõ nguyên nhân.</li>\n                <li>Sụt cân bất thường, mệt mỏi.</li>\n            </ul>\n            <p>Nội soi đại tràng là phương pháp tầm soát chính xác nhất hiện nay.</p>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Tiêu hóa",
+    "Ung thư",
+    "Tầm soát"
+  ],
+  "status": "published",
+  "views": 280,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.546Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.546Z"
+  },
+  "slug": "nhan-biet-som-cac-trieu-chung-cua-ung-thu-dai-truc-trang-5546",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc94"
+  },
+  "title": "Bí Quyết Vượt Qua Hội Chứng Cháy Sạch (Burnout) Tại Chốn Công Sở",
+  "content": "\n            <p>Burnout là tình trạng kiệt sức hoàn toàn về thể chất và tinh thần do áp lực công việc kéo dài.</p>\n            <h3>Làm sao để vượt qua?</h3>\n            <ol>\n                <li>Học cách nói \"Không\" với những việc vượt quá sức chịu đựng.</li>\n                <li>Dành ít nhất 15 phút mỗi ngày để thiền định hoặc đi dạo.</li>\n                <li>Tách biệt hoàn toàn giữa công việc và thời gian nghỉ ngơi. Không kiểm tra email sau 8 giờ tối.</li>\n            </ol>\n            <p>Sức khỏe tinh thần cũng quan trọng như sức khỏe thể chất!</p>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Tâm lý",
+    "Burnout",
+    "Công việc"
+  ],
+  "status": "published",
+  "views": 750,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.546Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.546Z"
+  },
+  "slug": "bi-quyet-vuot-qua-hoi-chung-chay-sach-burnout-tai-chon-cong-so-5546",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118d3d70f6d5ab7786dc96"
+  },
+  "title": "Tìm Hiểu Về Cấy Ghép Implant: Giải Pháp Hoàn Hảo Cho Người Mất Răng",
+  "content": "\n            <p>Cấy ghép Implant là phương pháp phục hình răng đã mất tiên tiến nhất hiện nay.</p>\n            <h3>Ưu điểm vượt trội:</h3>\n            <ul>\n                <li>Ngăn ngừa tình trạng tiêu xương hàm.</li>\n                <li>Thẩm mỹ cao, giống hệt răng thật.</li>\n                <li>Chức năng ăn nhai hoàn hảo.</li>\n                <li>Tuổi thọ cao, có thể tồn tại vĩnh viễn nếu chăm sóc tốt.</li>\n            </ul>\n            <p>Dù chi phí có phần cao hơn các phương pháp khác, nhưng giá trị mà Implant mang lại là hoàn toàn xứng đáng.</p>\n        ",
+  "thumbnail": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&q=80&w=800",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Nha khoa",
+    "Implant",
+    "Thẩm mỹ"
+  ],
+  "status": "published",
+  "views": 420,
+  "createdAt": {
+    "$date": "2026-05-23T11:19:25.547Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:19:25.547Z"
+  },
+  "slug": "tim-hieu-ve-cay-ghep-implant-giai-phap-hoan-hao-cho-nguoi-mat-rang-5547",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdbe"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 1 - Cập nhật mới nhất 1779535373039",
+  "content": "<p>Nội dung chi tiết bài viết số 1. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.039Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.039Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-1-cap-nhat-moi-nhat-1779535373039-3039",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdc0"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 2 - Cập nhật mới nhất 1779535373040",
+  "content": "<p>Nội dung chi tiết bài viết số 2. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.040Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.040Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-2-cap-nhat-moi-nhat-1779535373040-3040",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdc2"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 3 - Cập nhật mới nhất 1779535373040",
+  "content": "<p>Nội dung chi tiết bài viết số 3. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.040Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.040Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-3-cap-nhat-moi-nhat-1779535373040-3040",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdc4"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 4 - Cập nhật mới nhất 1779535373041",
+  "content": "<p>Nội dung chi tiết bài viết số 4. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.041Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.041Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-4-cap-nhat-moi-nhat-1779535373041-3041",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdc6"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 5 - Cập nhật mới nhất 1779535373041",
+  "content": "<p>Nội dung chi tiết bài viết số 5. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.041Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.041Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-5-cap-nhat-moi-nhat-1779535373041-3041",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdc8"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 6 - Cập nhật mới nhất 1779535373041",
+  "content": "<p>Nội dung chi tiết bài viết số 6. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.041Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.041Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-6-cap-nhat-moi-nhat-1779535373041-3041",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdca"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 7 - Cập nhật mới nhất 1779535373042",
+  "content": "<p>Nội dung chi tiết bài viết số 7. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.042Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.042Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-7-cap-nhat-moi-nhat-1779535373042-3042",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdcc"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 8 - Cập nhật mới nhất 1779535373042",
+  "content": "<p>Nội dung chi tiết bài viết số 8. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.042Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.042Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-8-cap-nhat-moi-nhat-1779535373042-3042",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdce"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 9 - Cập nhật mới nhất 1779535373043",
+  "content": "<p>Nội dung chi tiết bài viết số 9. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 2,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.043Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:35:28.134Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-9-cap-nhat-moi-nhat-1779535373043-3043",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdd0"
+  },
+  "title": "Tin Tức Y Tế Tổng Hợp Phần 10 - Cập nhật mới nhất 1779535373043",
+  "content": "<p>Nội dung chi tiết bài viết số 10. Đây là những thông tin sức khỏe hữu ích được cập nhật liên tục để bảo vệ bạn và gia đình.</p>",
+  "thumbnail": "/images/specialty.png",
+  "authorId": {
+    "$oid": "6a116d1decce7fc7fe4643b0"
+  },
+  "tags": [
+    "Y tế",
+    "Tin tức",
+    "Sức khỏe"
+  ],
+  "status": "published",
+  "views": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.043Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.043Z"
+  },
+  "slug": "tin-tuc-y-te-tong-hop-phan-10-cap-nhat-moi-nhat-1779535373043-3043",
+  "__v": 0
+}]

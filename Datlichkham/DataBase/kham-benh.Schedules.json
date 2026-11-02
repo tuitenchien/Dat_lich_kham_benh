@@ -1,0 +1,950 @@
+[{
+  "_id": {
+    "$oid": "6a0d2594dd61a4e349a1f40f"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "08:00 - 09:00",
+  "maxBookings": 3,
+  "currentBookings": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:08:04.126Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T04:11:21.031Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d2594dd61a4e349a1f410"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "09:00 - 10:00",
+  "maxBookings": 3,
+  "currentBookings": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T04:50:45.818Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d2594dd61a4e349a1f411"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "10:00 - 11:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d2594dd61a4e349a1f412"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "11:00 - 12:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d2594dd61a4e349a1f413"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "13:30 - 14:30",
+  "maxBookings": 3,
+  "currentBookings": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T05:52:53.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d2594dd61a4e349a1f414"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "14:30 - 15:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T07:32:53.608Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d2594dd61a4e349a1f415"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "15:30 - 16:30",
+  "maxBookings": 3,
+  "currentBookings": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T08:10:25.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d2594dd61a4e349a1f416"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "16:30 - 17:30",
+  "maxBookings": 3,
+  "currentBookings": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:08:04.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T07:40:42.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d26eabcc03b8a1253f642"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "16:30 - 17:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:13:46.048Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:13:46.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d26eabcc03b8a1253f643"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "15:30 - 16:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:13:46.048Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:13:46.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d26eabcc03b8a1253f644"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "13:30 - 14:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d26eabcc03b8a1253f645"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "14:30 - 15:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d26eabcc03b8a1253f646"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "11:00 - 12:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d26eabcc03b8a1253f647"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "10:00 - 11:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d26eabcc03b8a1253f648"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "08:00 - 09:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0d26eabcc03b8a1253f649"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "date": "20/05/2026",
+  "timeSlot": "09:00 - 10:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T03:13:46.049Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e845cf6ac7931bd766a98"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "21/05/2026",
+  "timeSlot": "08:00 - 09:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T04:04:44.318Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:04:44.318Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e845cf6ac7931bd766a99"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "21/05/2026",
+  "timeSlot": "10:00 - 11:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e845cf6ac7931bd766a9a"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "21/05/2026",
+  "timeSlot": "13:30 - 14:30",
+  "maxBookings": 3,
+  "currentBookings": 2,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:08:18.546Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e845cf6ac7931bd766a9b"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "21/05/2026",
+  "timeSlot": "15:30 - 16:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e845cf6ac7931bd766a9c"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "21/05/2026",
+  "timeSlot": "16:30 - 17:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e845cf6ac7931bd766a9d"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "21/05/2026",
+  "timeSlot": "14:30 - 15:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e845cf6ac7931bd766a9e"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "21/05/2026",
+  "timeSlot": "11:00 - 12:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e845cf6ac7931bd766a9f"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "21/05/2026",
+  "timeSlot": "09:00 - 10:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:04:44.319Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11709dd37e640e2f379c58"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "23/05/2026",
+  "timeSlot": "08:00 - 09:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11709dd37e640e2f379c5b"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "23/05/2026",
+  "timeSlot": "10:00 - 11:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11709dd37e640e2f379c5c"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "23/05/2026",
+  "timeSlot": "14:30 - 15:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11709dd37e640e2f379c5d"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "23/05/2026",
+  "timeSlot": "13:30 - 14:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11709dd37e640e2f379c5e"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "23/05/2026",
+  "timeSlot": "15:30 - 16:30",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11709dd37e640e2f379c5f"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "23/05/2026",
+  "timeSlot": "16:30 - 17:30",
+  "maxBookings": 3,
+  "currentBookings": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:17:17.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:17:31.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25db"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "08:00 - 09:00",
+  "maxBookings": 3,
+  "currentBookings": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.681Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:34:00.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25dc"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "09:00 - 10:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25dd"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "10:00 - 11:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25de"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "11:00 - 12:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25df"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "13:00 - 14:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25e0"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "14:00 - 15:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25e1"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "15:00 - 16:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25e2"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "16:00 - 17:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25e3"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "18:00 - 19:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a11747b323ea84eb0dc25e4"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "19:00 - 20:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:33:47.682Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a125ff683dc8dc02e8b92e8"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "08:00 - 09:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:18:30.431Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:18:30.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a125ff683dc8dc02e8b92e9"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "09:00 - 10:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:18:30.431Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:18:30.431Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a125ff683dc8dc02e8b92ea"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "11:00 - 12:00",
+  "maxBookings": 3,
+  "currentBookings": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:18:30.431Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:25:27.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a125ff683dc8dc02e8b92eb"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "10:00 - 11:00",
+  "maxBookings": 3,
+  "currentBookings": 1,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:18:30.431Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:20:05.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a12630383dc8dc02e8b9584"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "13:00 - 14:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a12630383dc8dc02e8b9585"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "14:00 - 15:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a12630383dc8dc02e8b9586"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "15:00 - 16:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a12630383dc8dc02e8b9587"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "19:00 - 20:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a12630383dc8dc02e8b9588"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "18:00 - 19:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a12630383dc8dc02e8b9589"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "date": "24/05/2026",
+  "timeSlot": "16:00 - 17:00",
+  "maxBookings": 3,
+  "currentBookings": 0,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:31:31.038Z"
+  }
+}]

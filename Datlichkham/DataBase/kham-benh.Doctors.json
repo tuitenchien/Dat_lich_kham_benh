@@ -1,0 +1,1015 @@
+[{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a4a"
+  },
+  "name": "Tiến sĩ Nguyễn Văn A",
+  "position": "Giáo sư, Tiến sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e1"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140dc"
+  },
+  "price": 300000,
+  "introduction": "Bác sĩ Nguyễn Văn A là chuyên gia hàng đầu trong lĩnh vực Thần kinh. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Hữu nghị Việt Đức. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.630Z"
+  },
+  "rating": 5,
+  "reviewCount": 1
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a69"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a4c"
+  },
+  "name": "Bác sĩ CKI Trần Thị B",
+  "position": "Bác sĩ CKI",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e4"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140de"
+  },
+  "price": 600000,
+  "introduction": "Bác sĩ Trần Thị B là chuyên gia hàng đầu trong lĩnh vực Tim mạch. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Đa khoa Tâm Anh. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.632Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a6a"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a4e"
+  },
+  "name": "Bác sĩ CKII Lê Văn C",
+  "position": "Bác sĩ CKII",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e3"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140dd"
+  },
+  "price": 400000,
+  "introduction": "Bác sĩ Lê Văn C là chuyên gia hàng đầu trong lĩnh vực Tiêu hóa. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện K - Cơ sở Tân Triều. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_1.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.632Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a6b"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a50"
+  },
+  "name": "Bác sĩ CKI Phạm Thị D",
+  "position": "Bác sĩ CKI",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e3"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140df"
+  },
+  "price": 800000,
+  "introduction": "Bác sĩ Phạm Thị D là chuyên gia hàng đầu trong lĩnh vực Tai Mũi Họng. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện K - Cơ sở Tân Triều. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.633Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a6c"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a52"
+  },
+  "name": "Phó Giáo sư, Tiến sĩ Hoàng Văn E",
+  "position": "Phó Giáo sư, Tiến sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e5"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140dd"
+  },
+  "price": 300000,
+  "introduction": "Bác sĩ Hoàng Văn E là chuyên gia hàng đầu trong lĩnh vực Tiêu hóa. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Đa khoa Quốc tế Vinmec Times City. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.634Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a6d"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a54"
+  },
+  "name": "Thạc sĩ, Bác sĩ Vũ Thị F",
+  "position": "Thạc sĩ, Bác sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e4"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140db"
+  },
+  "price": 800000,
+  "introduction": "Bác sĩ Vũ Thị F là chuyên gia hàng đầu trong lĩnh vực Cơ xương khớp. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Đa khoa Tâm Anh. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_1.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.634Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a6e"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a56"
+  },
+  "name": "Giáo sư, Tiến sĩ Đặng Văn G",
+  "position": "Giáo sư, Tiến sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e2"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140de"
+  },
+  "price": 500000,
+  "introduction": "Bác sĩ Đặng Văn G là chuyên gia hàng đầu trong lĩnh vực Tim mạch. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Chợ Rẫy. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.635Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a6f"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a58"
+  },
+  "name": "Tiến sĩ, Bác sĩ Bùi Thị H",
+  "position": "Tiến sĩ, Bác sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e2"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140dd"
+  },
+  "price": 800000,
+  "introduction": "Bác sĩ Bùi Thị H là chuyên gia hàng đầu trong lĩnh vực Tiêu hóa. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Chợ Rẫy. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.636Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a70"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a5a"
+  },
+  "name": "Thạc sĩ, Bác sĩ Đỗ Văn I",
+  "position": "Thạc sĩ, Bác sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e1"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140df"
+  },
+  "price": 800000,
+  "introduction": "Bác sĩ Đỗ Văn I là chuyên gia hàng đầu trong lĩnh vực Tai Mũi Họng. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Hữu nghị Việt Đức. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_1.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.636Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a71"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a5c"
+  },
+  "name": "Bác sĩ CKI Hồ Thị K",
+  "position": "Bác sĩ CKI",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e5"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140db"
+  },
+  "price": 800000,
+  "introduction": "Bác sĩ Hồ Thị K là chuyên gia hàng đầu trong lĩnh vực Cơ xương khớp. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Đa khoa Quốc tế Vinmec Times City. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.637Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a72"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a5e"
+  },
+  "name": "Tiến sĩ, Bác sĩ Ngô Văn L",
+  "position": "Tiến sĩ, Bác sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e1"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140de"
+  },
+  "price": 500000,
+  "introduction": "Bác sĩ Ngô Văn L là chuyên gia hàng đầu trong lĩnh vực Tim mạch. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Hữu nghị Việt Đức. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.637Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a73"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a60"
+  },
+  "name": "Phó Giáo sư, Tiến sĩ Dương Thị M",
+  "position": "Phó Giáo sư, Tiến sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e5"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140db"
+  },
+  "price": 400000,
+  "introduction": "Bác sĩ Dương Thị M là chuyên gia hàng đầu trong lĩnh vực Cơ xương khớp. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Đa khoa Quốc tế Vinmec Times City. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_1.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.638Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a74"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a62"
+  },
+  "name": "Bác sĩ CKI Lý Văn N",
+  "position": "Bác sĩ CKI",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e4"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140dd"
+  },
+  "price": 500000,
+  "introduction": "Bác sĩ Lý Văn N là chuyên gia hàng đầu trong lĩnh vực Tiêu hóa. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Đa khoa Tâm Anh. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.639Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a75"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a64"
+  },
+  "name": "Bác sĩ CKII Đào Thị O",
+  "position": "Bác sĩ CKII",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e2"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140df"
+  },
+  "price": 300000,
+  "introduction": "Bác sĩ Đào Thị O là chuyên gia hàng đầu trong lĩnh vực Tai Mũi Họng. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Chợ Rẫy. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.639Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a0d212723a1516cfce09a76"
+  },
+  "userId": {
+    "$oid": "6a0d212723a1516cfce09a66"
+  },
+  "name": "Thạc sĩ, Bác sĩ Đoàn Văn P",
+  "position": "Thạc sĩ, Bác sĩ",
+  "clinicId": {
+    "$oid": "6a0c3170be219e39a45140e4"
+  },
+  "specialtyId": {
+    "$oid": "6a0c3170be219e39a45140db"
+  },
+  "price": 600000,
+  "introduction": "Bác sĩ Đoàn Văn P là chuyên gia hàng đầu trong lĩnh vực Cơ xương khớp. Bác sĩ có nhiều năm tu nghiệp tại Pháp, Mỹ và hiện đang công tác tại Bệnh viện Đa khoa Tâm Anh. Với kinh nghiệm dày dặn, bác sĩ đã điều trị thành công hàng ngàn ca bệnh khó.",
+  "image": "/images/doc_m_1.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-20T02:49:11.363Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.640Z"
+  },
+  "rating": 0,
+  "reviewCount": 0
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd6d"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd6b"
+  },
+  "name": "BS. Lý Bình",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd43"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd65"
+  },
+  "price": 300000,
+  "introduction": "",
+  "image": "/images/doc_f_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.032Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.640Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd6e"
+  },
+  "name": "BS. Lý Giang",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd4e"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd5c"
+  },
+  "price": 200000,
+  "introduction": "",
+  "image": "/images/doc_f_2.png",
+  "rating": 5,
+  "reviewCount": 1,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:34:32.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd73"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd71"
+  },
+  "name": "BS. Đặng Linh",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd43"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd64"
+  },
+  "price": 200000,
+  "introduction": "",
+  "image": "/images/doc_f_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.641Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd76"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd74"
+  },
+  "name": "BS. Hoàng Tuấn",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd52"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd58"
+  },
+  "price": 200000,
+  "introduction": "",
+  "image": "/images/doc_m_3.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd79"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd77"
+  },
+  "name": "BS. Hoàng Tuấn",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd46"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd63"
+  },
+  "price": 400000,
+  "introduction": "",
+  "image": "/images/doc_m_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd7c"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd7a"
+  },
+  "name": "BS. Hồ Cường",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd4d"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd64"
+  },
+  "price": 500000,
+  "introduction": "",
+  "image": "/images/doc_m_2.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd7f"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd7d"
+  },
+  "name": "BS. Trần An",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd49"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd58"
+  },
+  "price": 200000,
+  "introduction": "",
+  "image": "/images/doc_f_2.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd82"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd80"
+  },
+  "name": "BS. Vũ Mai",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd43"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd5b"
+  },
+  "price": 300000,
+  "introduction": "",
+  "image": "/images/doc_m_3.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.644Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd85"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd83"
+  },
+  "name": "BS. Huỳnh Tuấn",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd48"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd5e"
+  },
+  "price": 500000,
+  "introduction": "",
+  "image": "/images/doc_m_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd88"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd86"
+  },
+  "name": "BS. Vũ Quân",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd52"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd69"
+  },
+  "price": 200000,
+  "introduction": "",
+  "image": "/images/doc_f_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd8b"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd89"
+  },
+  "name": "BS. Hồ Uyên",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd4a"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd5b"
+  },
+  "price": 400000,
+  "introduction": "",
+  "image": "/images/doc_f_2.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd8e"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd8c"
+  },
+  "name": "BS. Vũ Tâm",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd4c"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd65"
+  },
+  "price": 300000,
+  "introduction": "",
+  "image": "/images/doc_m_2.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd91"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd8f"
+  },
+  "name": "BS. Lê Phong",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd44"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd5d"
+  },
+  "price": 200000,
+  "introduction": "",
+  "image": "/images/doc_f_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.647Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd94"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd92"
+  },
+  "name": "BS. Huỳnh Linh",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd47"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd65"
+  },
+  "price": 200000,
+  "introduction": "",
+  "image": "/images/doc_f_2.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd97"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd95"
+  },
+  "name": "BS. Nguyễn Em",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd44"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd57"
+  },
+  "price": 400000,
+  "introduction": "",
+  "image": "/images/doc_f_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd9a"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd98"
+  },
+  "name": "BS. Bùi Tâm",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd4f"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd62"
+  },
+  "price": 500000,
+  "introduction": "",
+  "image": "/images/doc_f_2.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd9d"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd9b"
+  },
+  "name": "BS. Phạm An",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd4f"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd64"
+  },
+  "price": 300000,
+  "introduction": "",
+  "image": "/images/doc_f_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.649Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fda0"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fd9e"
+  },
+  "name": "BS. Hồ Cường",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd44"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd65"
+  },
+  "price": 400000,
+  "introduction": "",
+  "image": "/images/doc_f_2.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fda3"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fda1"
+  },
+  "name": "BS. Võ An",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd4c"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd66"
+  },
+  "price": 200000,
+  "introduction": "",
+  "image": "/images/doc_m_3.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.651Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fda6"
+  },
+  "userId": {
+    "$oid": "6a118e0d58031eb053f8fda4"
+  },
+  "name": "BS. Võ Oanh",
+  "position": "Bác sĩ chuyên khoa",
+  "clinicId": {
+    "$oid": "6a118e0d58031eb053f8fd43"
+  },
+  "specialtyId": {
+    "$oid": "6a118e0d58031eb053f8fd57"
+  },
+  "price": 300000,
+  "introduction": "",
+  "image": "/images/doc_m_1.png",
+  "rating": 0,
+  "reviewCount": 0,
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.033Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:35:30.651Z"
+  }
+}]

@@ -1,0 +1,506 @@
+[{
+  "_id": {
+    "$oid": "6a0d6d4e939dc3a1cc10df17"
+  },
+  "appointmentId": {
+    "$oid": "6a0d6c71939dc3a1cc10debf"
+  },
+  "patientId": {
+    "$oid": "6a0d6b2f87affb0ff1ec7835"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "rating": 5,
+  "comment": "321",
+  "createdAt": {
+    "$date": "2026-05-20T08:14:06.791Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-20T08:14:06.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f89c"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f899"
+  },
+  "patientId": {
+    "$oid": "6a118dddb5c93c39ee3bc626"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a6a"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ tư vấn rất nhiệt tình, chi tiết. Phòng khám sạch sẽ, thiết bị hiện đại. Rất đáng tiền.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.502Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.502Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8a1"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f89e"
+  },
+  "patientId": {
+    "$oid": "6a118df4da64c08225d89181"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fda3"
+  },
+  "rating": 5,
+  "comment": "Trải nghiệm khám bệnh tuyệt vời. Hệ thống đặt lịch nhanh chóng, thông tin rõ ràng.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.505Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8a6"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8a3"
+  },
+  "patientId": {
+    "$oid": "6a118dddb5c93c39ee3bc62e"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a75"
+  },
+  "rating": 5,
+  "comment": "Trải nghiệm khám bệnh tuyệt vời. Hệ thống đặt lịch nhanh chóng, thông tin rõ ràng.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.507Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8ab"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8a8"
+  },
+  "patientId": {
+    "$oid": "6a118df4da64c08225d8917b"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd76"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ rất thân thiện và chu đáo, giải đáp mọi thắc mắc cặn kẽ. Cảm ơn phòng khám rất nhiều.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.508Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8b0"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8ad"
+  },
+  "patientId": {
+    "$oid": "6a118df4da64c08225d89176"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd73"
+  },
+  "rating": 4,
+  "comment": "Trải nghiệm khám bệnh tuyệt vời. Hệ thống đặt lịch nhanh chóng, thông tin rõ ràng.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.510Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8b5"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8b2"
+  },
+  "patientId": {
+    "$oid": "6a118dddb5c93c39ee3bc62d"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd7f"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ rất thân thiện và chu đáo, giải đáp mọi thắc mắc cặn kẽ. Cảm ơn phòng khám rất nhiều.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.511Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8ba"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8b7"
+  },
+  "patientId": {
+    "$oid": "6a118e0d58031eb053f8fd3a"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd8b"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ rất thân thiện và chu đáo, giải đáp mọi thắc mắc cặn kẽ. Cảm ơn phòng khám rất nhiều.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.513Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.513Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8bf"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8bc"
+  },
+  "patientId": {
+    "$oid": "6a118e0d58031eb053f8fd33"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd7c"
+  },
+  "rating": 5,
+  "comment": "Cơ sở vật chất khang trang, bác sĩ hướng dẫn tận tình, dễ hiểu. Sẽ giới thiệu cho người thân.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.514Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8c4"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8c1"
+  },
+  "patientId": {
+    "$oid": "6a118e0d58031eb053f8fd34"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd9d"
+  },
+  "rating": 5,
+  "comment": "Cơ sở vật chất khang trang, bác sĩ hướng dẫn tận tình, dễ hiểu. Sẽ giới thiệu cho người thân.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.515Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8c9"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8c6"
+  },
+  "patientId": {
+    "$oid": "6a118e0d58031eb053f8fd3c"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd7c"
+  },
+  "rating": 5,
+  "comment": "Trải nghiệm khám bệnh tuyệt vời. Hệ thống đặt lịch nhanh chóng, thông tin rõ ràng.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.516Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8ce"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8cb"
+  },
+  "patientId": {
+    "$oid": "6a118df4da64c08225d8917b"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a6f"
+  },
+  "rating": 4,
+  "comment": "Cơ sở vật chất khang trang, bác sĩ hướng dẫn tận tình, dễ hiểu. Sẽ giới thiệu cho người thân.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.517Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8d3"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8d0"
+  },
+  "patientId": {
+    "$oid": "6a118df4da64c08225d89181"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a6d"
+  },
+  "rating": 5,
+  "comment": "Trải nghiệm khám bệnh tuyệt vời. Hệ thống đặt lịch nhanh chóng, thông tin rõ ràng.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.519Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8d8"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8d5"
+  },
+  "patientId": {
+    "$oid": "6a118dddb5c93c39ee3bc621"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a6f"
+  },
+  "rating": 5,
+  "comment": "Cơ sở vật chất khang trang, bác sĩ hướng dẫn tận tình, dễ hiểu. Sẽ giới thiệu cho người thân.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.520Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8dd"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8da"
+  },
+  "patientId": {
+    "$oid": "6a118df4da64c08225d8917a"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a6b"
+  },
+  "rating": 5,
+  "comment": "Tôi rất hài lòng với thái độ phục vụ của nhân viên và sự tận tâm của bác sĩ.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.521Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8e2"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8df"
+  },
+  "patientId": {
+    "$oid": "6a118df3da64c08225d89173"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd9a"
+  },
+  "rating": 4,
+  "comment": "Tôi rất hài lòng với thái độ phục vụ của nhân viên và sự tận tâm của bác sĩ.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.523Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.523Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8e7"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8e4"
+  },
+  "patientId": {
+    "$oid": "6a118dddb5c93c39ee3bc62e"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd88"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ rất thân thiện và chu đáo, giải đáp mọi thắc mắc cặn kẽ. Cảm ơn phòng khám rất nhiều.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.524Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8ec"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8e9"
+  },
+  "patientId": {
+    "$oid": "6a118e0d58031eb053f8fd39"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a6f"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ rất thân thiện và chu đáo, giải đáp mọi thắc mắc cặn kẽ. Cảm ơn phòng khám rất nhiều.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.526Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8f1"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8ee"
+  },
+  "patientId": {
+    "$oid": "6a118e0d58031eb053f8fd36"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a71"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ rất thân thiện và chu đáo, giải đáp mọi thắc mắc cặn kẽ. Cảm ơn phòng khám rất nhiều.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.527Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8f6"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8f3"
+  },
+  "patientId": {
+    "$oid": "6a118df4da64c08225d8917d"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a6f"
+  },
+  "rating": 5,
+  "comment": "Dịch vụ đặt lịch khám online rất tiện lợi, không phải chờ đợi lâu. Bác sĩ chuyên môn cao.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.528Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a125a036265ec813f40f8fb"
+  },
+  "appointmentId": {
+    "$oid": "6a125a036265ec813f40f8f8"
+  },
+  "patientId": {
+    "$oid": "6a118df4da64c08225d89182"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "rating": 5,
+  "comment": "Bác sĩ tư vấn rất nhiệt tình, chi tiết. Phòng khám sạch sẽ, thiết bị hiện đại. Rất đáng tiền.",
+  "createdAt": {
+    "$date": "2026-05-24T01:53:07.530Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T01:53:07.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a1263b883dc8dc02e8b97a2"
+  },
+  "appointmentId": {
+    "$oid": "6a12602b83dc8dc02e8b9304"
+  },
+  "patientId": {
+    "$oid": "6a125f6e83dc8dc02e8b9154"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "rating": 5,
+  "comment": "nhiệt tình",
+  "createdAt": {
+    "$date": "2026-05-24T02:34:32.705Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:34:32.705Z"
+  },
+  "__v": 0
+}]

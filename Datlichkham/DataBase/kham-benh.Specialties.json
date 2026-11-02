@@ -1,0 +1,950 @@
+[{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140db"
+  },
+  "name": "Nội khoa",
+  "introduction": "Khám và điều trị các bệnh lý về cơ, xương, khớp. Các chuyên gia cơ xương khớp hàng đầu sẽ trực tiếp thăm khám và đưa ra phác đồ điều trị phù hợp cho từng bệnh nhân. Chúng tôi cung cấp các dịch vụ nội khoa, ngoại khoa và vật lý trị liệu chuyên sâu.",
+  "professionalStrengths": "Thế mạnh về điều trị nội khoa các bệnh lý tự miễn như viêm khớp dạng thấp, lupus ban đỏ, gout. Cùng với đó là các phẫu thuật thay khớp háng, khớp gối, nội soi tái tạo dây chằng chéo trước, dây chằng chéo sau.",
+  "equipment": "Hệ thống phòng mổ áp lực dương vô khuẩn, máy C-arm chụp X-quang trong mổ. Hệ thống máy MRI 3.0 Tesla giúp chẩn đoán sớm và chính xác các tổn thương nhỏ nhất của dây chằng, sụn chêm.",
+  "examinationProcess": "Bước 1: Đăng ký tại quầy tiếp đón.\nBước 2: Đo sinh hiệu (huyết áp, nhịp tim).\nBước 3: Khám lâm sàng với bác sĩ chuyên khoa.\nBước 4: Thực hiện các cận lâm sàng (X-quang, MRI, xét nghiệm máu).\nBước 5: Quay lại phòng khám nghe kết luận và nhận đơn thuốc.",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140dc"
+  },
+  "name": "Ngoại khoa",
+  "introduction": "Chuyên khám và điều trị các bệnh lý liên quan đến hệ thần kinh trung ương và ngoại vi. Đội ngũ y bác sĩ giàu kinh nghiệm trong chẩn đoán các bệnh lý khó, kết hợp với các chuyên gia tâm lý học, vật lý trị liệu để mang lại kết quả toàn diện.",
+  "professionalStrengths": "Chuyên gia thần kinh học kinh nghiệm 20 năm. Các bệnh lý thường gặp như đau đầu, mất ngủ, rối loạn tiền đình, Parkinson, Alzheimer, động kinh, viêm dây thần kinh, phục hồi chức năng sau đột quỵ.",
+  "equipment": "Máy điện não đồ, điện cơ đồ, máy đo vận tốc dẫn truyền thần kinh. Hệ thống MRI 3 Tesla, CT 256 dãy hỗ trợ chẩn đoán chính xác các khối u não, dị dạng mạch máu não.",
+  "examinationProcess": "Người bệnh lấy số thứ tự -> Khám chuyên gia Thần kinh -> Thực hiện đo điện não/điện cơ (nếu cần) -> Nhận kết quả chẩn đoán và tư vấn phác đồ điều trị.",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140dd"
+  },
+  "name": "Sản phụ khoa",
+  "introduction": "Chuyên khám các bệnh lý về dạ dày, đại tràng, tiêu hóa. Bệnh viện ứng dụng các kỹ thuật nội soi hiện đại nhất giúp chẩn đoán bệnh chính xác và can thiệp kịp thời không cần phẫu thuật mở.",
+  "professionalStrengths": "Thế mạnh về nội soi tiêu hóa không đau (gây mê), cắt polyp, lấy dị vật, cầm máu qua nội soi. Tầm soát ung thư đường tiêu hóa sớm và các bệnh lý về gan, mật, tụy.",
+  "equipment": "Hệ thống nội soi ống mềm tiên tiến phóng đại 100 lần, nhuộm màu dải băng hẹp (NBI) giúp phát hiện ung thư ở giai đoạn rất sớm. Máy siêu âm đàn hồi mô gan.",
+  "examinationProcess": "Đăng ký -> Khám tổng quát với bác sĩ Nội tiêu hóa -> Thực hiện nội soi dạ dày/đại tràng (thường hoặc gây mê) -> Nhận kết quả và kê đơn thuốc.",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.667Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140de"
+  },
+  "name": "Nhi khoa",
+  "introduction": "Khám và tầm soát các bệnh lý tim mạch, huyết áp. Trung tâm tim mạch với sự phối hợp chặt chẽ giữa Nội tim mạch, Ngoại tim mạch và Can thiệp tim mạch.",
+  "professionalStrengths": "Phẫu thuật tim hở, can thiệp mạch vành qua da, đặt stent mạch vành, thay van tim sinh học/cơ học, cấy máy tạo nhịp tim vĩnh viễn, điều trị rối loạn nhịp bằng sóng có tần số radio (RF).",
+  "equipment": "Máy siêu âm tim 4D, hệ thống chụp mạch số hóa xóa nền (DSA), máy điện tâm đồ gắng sức, Holter điện tâm đồ 24h, Holter huyết áp 24h.",
+  "examinationProcess": "Đo điện tâm đồ tại phòng khám -> Siêu âm tim -> Bác sĩ tư vấn và chỉ định thêm Holter hoặc DSA nếu cần -> Chốt phác đồ điều trị nội/ngoại khoa.",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140df"
+  },
+  "name": "Răng Hàm Mặt",
+  "introduction": "Điều trị các bệnh lý viêm xoang, viêm họng, tai giữa. Các bác sĩ chuyên khoa Tai Mũi Họng sẽ tiến hành thăm khám kỹ lưỡng, sử dụng hệ thống nội soi để đánh giá mức độ tổn thương và đưa ra chỉ định chính xác.",
+  "professionalStrengths": "Phẫu thuật nội soi mũi xoang (FESS), cắt amidan, nạo VA bằng dao Plasma không chảy máu, vi phẫu thanh quản cắt hạt xơ, vá màng nhĩ nội soi.",
+  "equipment": "Hệ thống máy nội soi Tai Mũi Họng Karl Storz của Đức, dao Plasma, dao Laser, máy đo thính lực và nhĩ lượng đồ.",
+  "examinationProcess": "Bệnh nhân được bác sĩ khám sơ bộ -> Nội soi TMH ngay tại phòng khám -> Bác sĩ giải thích tình trạng bệnh trên màn hình nội soi -> Cấp thuốc hoặc hẹn lịch phẫu thuật.",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.384Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc648"
+  },
+  "name": "Tai Mũi Họng",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.604Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc649"
+  },
+  "name": "Mắt",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.604Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.668Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc64a"
+  },
+  "name": "Da liễu",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.604Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc64b"
+  },
+  "name": "Thần kinh",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.604Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc64c"
+  },
+  "name": "Tim mạch",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.604Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8919d"
+  },
+  "name": "Tiêu hóa",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.669Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8919e"
+  },
+  "name": "Cơ xương khớp",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8919f"
+  },
+  "name": "Hô hấp",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a0"
+  },
+  "name": "Nội tiết",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a1"
+  },
+  "name": "Tiết niệu",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a2"
+  },
+  "name": "Ung bướu",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a3"
+  },
+  "name": "Truyền nhiễm",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a4"
+  },
+  "name": "Tâm thần",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a5"
+  },
+  "name": "Phục hồi chức năng",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a6"
+  },
+  "name": "Y học cổ truyền",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a7"
+  },
+  "name": "Nội khoa - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a8"
+  },
+  "name": "Ngoại khoa - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891a9"
+  },
+  "name": "Sản phụ khoa - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891aa"
+  },
+  "name": "Nhi khoa - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891ab"
+  },
+  "name": "Răng Hàm Mặt - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.673Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891ac"
+  },
+  "name": "Tai Mũi Họng - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.674Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891ad"
+  },
+  "name": "Mắt - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.674Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891ae"
+  },
+  "name": "Da liễu - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.674Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891af"
+  },
+  "name": "Thần kinh - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.674Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d891b0"
+  },
+  "name": "Tim mạch - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.011Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd56"
+  },
+  "name": "Tiêu hóa - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd57"
+  },
+  "name": "Cơ xương khớp - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd58"
+  },
+  "name": "Hô hấp - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd59"
+  },
+  "name": "Nội tiết - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd5a"
+  },
+  "name": "Tiết niệu - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd5b"
+  },
+  "name": "Ung bướu - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd5c"
+  },
+  "name": "Truyền nhiễm - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd5d"
+  },
+  "name": "Tâm thần - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.676Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd5e"
+  },
+  "name": "Phục hồi chức năng - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd5f"
+  },
+  "name": "Y học cổ truyền - Phân khu 2",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd60"
+  },
+  "name": "Nội khoa - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd61"
+  },
+  "name": "Ngoại khoa - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.677Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd62"
+  },
+  "name": "Sản phụ khoa - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd63"
+  },
+  "name": "Nhi khoa - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd64"
+  },
+  "name": "Răng Hàm Mặt - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd65"
+  },
+  "name": "Tai Mũi Họng - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.678Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd66"
+  },
+  "name": "Mắt - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd67"
+  },
+  "name": "Da liễu - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd68"
+  },
+  "name": "Thần kinh - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.679Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd69"
+  },
+  "name": "Tim mạch - Phân khu 3",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/specialty_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.019Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:59:20.679Z"
+  }
+}]

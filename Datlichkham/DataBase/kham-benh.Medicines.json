@@ -1,0 +1,1232 @@
+[{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f494"
+  },
+  "name": "Paracetamol 500mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn 30 phút",
+  "description": "Giảm đau, hạ sốt",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.221Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.221Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f495"
+  },
+  "name": "Ibuprofen 400mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn no",
+  "description": "Kháng viêm không steroid, giảm đau",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:19:15.615Z"
+  },
+  "price": 100000,
+  "stock": 90
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f496"
+  },
+  "name": "Amoxicillin 500mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn",
+  "description": "Kháng sinh trị nhiễm khuẩn",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f497"
+  },
+  "name": "Vitamin C 500mg",
+  "unit": "Viên",
+  "usage": "Uống buổi sáng sau ăn",
+  "description": "Tăng sức đề kháng",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f498"
+  },
+  "name": "Omeprazole 20mg",
+  "unit": "Viên",
+  "usage": "Uống trước ăn sáng 30 phút",
+  "description": "Điều trị viêm loét dạ dày",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f499"
+  },
+  "name": "Loratadine 10mg",
+  "unit": "Viên",
+  "usage": "Uống khi dị ứng",
+  "description": "Thuốc chống dị ứng",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f49a"
+  },
+  "name": "Cetirizine 10mg",
+  "unit": "Viên",
+  "usage": "Uống buổi tối",
+  "description": "Thuốc kháng histamine",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f49b"
+  },
+  "name": "Salbutamol 2mg",
+  "unit": "Viên",
+  "usage": "Dùng khi khó thở",
+  "description": "Giãn phế quản",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f49c"
+  },
+  "name": "Metformin 500mg",
+  "unit": "Viên",
+  "usage": "Uống cùng hoặc sau bữa ăn",
+  "description": "Thuốc trị tiểu đường tuýp 2",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f49d"
+  },
+  "name": "Amlodipine 5mg",
+  "unit": "Viên",
+  "usage": "Uống 1 lần/ngày",
+  "description": "Hạ huyết áp",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f49e"
+  },
+  "name": "Losartan 50mg",
+  "unit": "Viên",
+  "usage": "Uống theo chỉ định",
+  "description": "Hạ huyết áp",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f49f"
+  },
+  "name": "Atorvastatin 20mg",
+  "unit": "Viên",
+  "usage": "Uống buổi tối",
+  "description": "Hạ mỡ máu",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a0"
+  },
+  "name": "Aspirin 81mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn",
+  "description": "Chống kết tập tiểu cầu",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a1"
+  },
+  "name": "Ciprofloxacin 500mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn",
+  "description": "Kháng sinh",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a2"
+  },
+  "name": "Azithromycin 250mg",
+  "unit": "Viên",
+  "usage": "Uống 1 giờ trước ăn hoặc 2 giờ sau ăn",
+  "description": "Kháng sinh",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a3"
+  },
+  "name": "Dexamethasone 0.5mg",
+  "unit": "Viên",
+  "usage": "Uống theo liều giảm dần",
+  "description": "Kháng viêm corticoid",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a4"
+  },
+  "name": "Prednisolone 5mg",
+  "unit": "Viên",
+  "usage": "Uống buổi sáng sau ăn no",
+  "description": "Kháng viêm corticoid",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a5"
+  },
+  "name": "Diclofenac 50mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn",
+  "description": "Kháng viêm, giảm đau",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a6"
+  },
+  "name": "Meloxicam 7.5mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn",
+  "description": "Kháng viêm xương khớp",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a7"
+  },
+  "name": "Oresol",
+  "unit": "Gói",
+  "usage": "Pha với 200ml nước đun sôi để nguội",
+  "description": "Bù nước và điện giải",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a8"
+  },
+  "name": "Berberin 100mg",
+  "unit": "Viên",
+  "usage": "Uống khi tiêu chảy",
+  "description": "Thuốc trị tiêu chảy",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4a9"
+  },
+  "name": "Loperamide 2mg",
+  "unit": "Viên",
+  "usage": "Uống khi tiêu chảy cấp",
+  "description": "Thuốc cầm tiêu chảy",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4aa"
+  },
+  "name": "Diosmectite (Smecta)",
+  "unit": "Gói",
+  "usage": "Pha với nước uống",
+  "description": "Bảo vệ niêm mạc ruột",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4ab"
+  },
+  "name": "Domperidone 10mg",
+  "unit": "Viên",
+  "usage": "Uống trước ăn 15-30 phút",
+  "description": "Trị nôn, đầy bụng",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4ac"
+  },
+  "name": "Pantoprazole 40mg",
+  "unit": "Viên",
+  "usage": "Uống trước ăn sáng",
+  "description": "Trị viêm loét dạ dày",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4ad"
+  },
+  "name": "Esomeprazole 40mg",
+  "unit": "Viên",
+  "usage": "Uống trước ăn 30 phút",
+  "description": "Thuốc ức chế tiết axit",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4ae"
+  },
+  "name": "Alverine citrate 40mg",
+  "unit": "Viên",
+  "usage": "Uống khi đau bụng",
+  "description": "Giảm co thắt cơ trơn",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4af"
+  },
+  "name": "Bisacodyl 5mg",
+  "unit": "Viên",
+  "usage": "Uống buổi tối trước khi ngủ",
+  "description": "Thuốc trị táo bón",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b0"
+  },
+  "name": "Sắt (Ferrous sulfate)",
+  "unit": "Viên",
+  "usage": "Uống trước ăn 1 giờ",
+  "description": "Bổ sung sắt, ngừa thiếu máu",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b1"
+  },
+  "name": "Canxi (Calcium carbonate)",
+  "unit": "Viên",
+  "usage": "Uống buổi sáng sau ăn",
+  "description": "Bổ sung canxi",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b2"
+  },
+  "name": "Vitamin D3 1000 IU",
+  "unit": "Viên",
+  "usage": "Uống cùng bữa ăn",
+  "description": "Hỗ trợ hấp thu canxi",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b3"
+  },
+  "name": "Magnesium B6",
+  "unit": "Viên",
+  "usage": "Uống sau ăn",
+  "description": "Bổ sung kẽm và B6, giảm căng thẳng",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b4"
+  },
+  "name": "Vitamin B complex",
+  "unit": "Viên",
+  "usage": "Uống buổi sáng",
+  "description": "Bổ sung vitamin nhóm B",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b5"
+  },
+  "name": "Ginkgo Biloba 80mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn",
+  "description": "Tăng cường tuần hoàn máu não",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b6"
+  },
+  "name": "Piracetam 800mg",
+  "unit": "Viên",
+  "usage": "Uống sau ăn",
+  "description": "Cải thiện tuần hoàn não",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b7"
+  },
+  "name": "Betahistine 16mg",
+  "unit": "Viên",
+  "usage": "Uống trong bữa ăn",
+  "description": "Trị chóng mặt",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b8"
+  },
+  "name": "Acetaminophen 300mg (Trẻ em)",
+  "unit": "Gói",
+  "usage": "Pha với nước, uống khi sốt > 38.5 độ",
+  "description": "Hạ sốt trẻ em",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4b9"
+  },
+  "name": "Nước muối sinh lý NaCl 0.9%",
+  "unit": "Chai",
+  "usage": "Nhỏ mắt, mũi hoặc súc miệng",
+  "description": "Vệ sinh cá nhân",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4ba"
+  },
+  "name": "Povidine 10%",
+  "unit": "Chai",
+  "usage": "Bôi ngoài da",
+  "description": "Sát trùng vết thương",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4bb"
+  },
+  "name": "Cồn y tế 70 độ",
+  "unit": "Chai",
+  "usage": "Dùng sát khuẩn ngoài da",
+  "description": "Sát khuẩn",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4bc"
+  },
+  "name": "Oxy già 3%",
+  "unit": "Chai",
+  "usage": "Rửa vết thương",
+  "description": "Sát trùng vết thương hở",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4bd"
+  },
+  "name": "Salicylic acid 5%",
+  "unit": "Tuýp",
+  "usage": "Bôi vùng da bị mụn, nấm",
+  "description": "Trị mụn, nấm da",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4be"
+  },
+  "name": "Clotrimazole 1%",
+  "unit": "Tuýp",
+  "usage": "Bôi ngoài da 2 lần/ngày",
+  "description": "Thuốc trị nấm da",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4bf"
+  },
+  "name": "Ketoconazole 2%",
+  "unit": "Tuýp",
+  "usage": "Bôi ngoài da",
+  "description": "Thuốc trị nấm",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4c0"
+  },
+  "name": "Acyclovir 5%",
+  "unit": "Tuýp",
+  "usage": "Bôi 5 lần/ngày",
+  "description": "Trị viêm da do virus Herpes",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4c1"
+  },
+  "name": "Hydrocortisone 1%",
+  "unit": "Tuýp",
+  "usage": "Bôi lớp mỏng lên da",
+  "description": "Kháng viêm da, chống ngứa",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4c2"
+  },
+  "name": "Neomycin & Dexamethasone",
+  "unit": "Lọ",
+  "usage": "Nhỏ mắt/tai theo chỉ định",
+  "description": "Kháng viêm, kháng khuẩn Mắt/Tai",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4c3"
+  },
+  "name": "Tobramycin 0.3%",
+  "unit": "Lọ",
+  "usage": "Nhỏ mắt",
+  "description": "Thuốc nhỏ mắt trị nhiễm khuẩn",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4c4"
+  },
+  "name": "Thuốc ho Bảo Thanh",
+  "unit": "Chai",
+  "usage": "Uống theo chỉ định độ tuổi",
+  "description": "Trị ho, bổ phế",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0e80c656fd87169d13f4c5"
+  },
+  "name": "Bột sủi thanh nhiệt",
+  "unit": "Gói",
+  "usage": "Pha với nước lạnh",
+  "description": "Thanh nhiệt, giải độc",
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T03:49:26.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fda8"
+  },
+  "name": "Paracetamol 400mg (1779535373034)",
+  "unit": "chai",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 396,
+  "price": 140000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:29:39.030Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fda9"
+  },
+  "name": "Amoxicillin 400mg (1779535373034)",
+  "unit": "vỉ",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 376,
+  "price": 200000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdaa"
+  },
+  "name": "Ibuprofen 200mg (1779535373034)",
+  "unit": "chai",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 182,
+  "price": 20000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdab"
+  },
+  "name": "Omeprazole 100mg (1779535373034)",
+  "unit": "chai",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 268,
+  "price": 180000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdac"
+  },
+  "name": "Cetirizine 500mg (1779535373034)",
+  "unit": "chai",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 487,
+  "price": 190000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdad"
+  },
+  "name": "Amlodipine 100mg (1779535373034)",
+  "unit": "viên",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 207,
+  "price": 70000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdae"
+  },
+  "name": "Metformin 200mg (1779535373034)",
+  "unit": "chai",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 87,
+  "price": 90000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdaf"
+  },
+  "name": "Simvastatin 300mg (1779535373034)",
+  "unit": "chai",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 337,
+  "price": 160000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb0"
+  },
+  "name": "Losartan 300mg (1779535373034)",
+  "unit": "hộp",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 389,
+  "price": 50000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb1"
+  },
+  "name": "Azithromycin 400mg (1779535373034)",
+  "unit": "viên",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 240,
+  "price": 20000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb2"
+  },
+  "name": "Clopidogrel 200mg (1779535373034)",
+  "unit": "vỉ",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 66,
+  "price": 170000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb3"
+  },
+  "name": "Pantoprazole 200mg (1779535373034)",
+  "unit": "viên",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 321,
+  "price": 50000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb4"
+  },
+  "name": "Meloxicam 300mg (1779535373034)",
+  "unit": "hộp",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 431,
+  "price": 110000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb5"
+  },
+  "name": "Loratadine 300mg (1779535373034)",
+  "unit": "vỉ",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 373,
+  "price": 140000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb6"
+  },
+  "name": "Diazepam 500mg (1779535373034)",
+  "unit": "hộp",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 440,
+  "price": 20000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb7"
+  },
+  "name": "Diclofenac 200mg (1779535373034)",
+  "unit": "viên",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 285,
+  "price": 10000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb8"
+  },
+  "name": "Cefixime 500mg (1779535373034)",
+  "unit": "vỉ",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 322,
+  "price": 130000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdb9"
+  },
+  "name": "Ciprofloxacin 400mg (1779535373034)",
+  "unit": "vỉ",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 122,
+  "price": 50000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdba"
+  },
+  "name": "Atorvastatin 500mg (1779535373034)",
+  "unit": "chai",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 277,
+  "price": 150000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fdbb"
+  },
+  "name": "Salbutamol 100mg (1779535373034)",
+  "unit": "viên",
+  "usage": "Uống sau khi ăn",
+  "description": "Thuốc chính hãng, đảm bảo chất lượng, được kiểm định nghiêm ngặt bởi bộ y tế.",
+  "stock": 183,
+  "price": 130000,
+  "status": "active",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:22:53.035Z"
+  }
+}]

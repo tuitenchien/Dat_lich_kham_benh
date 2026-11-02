@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "6a0e84c971302a88c839da08"
+  },
+  "appointmentId": {
+    "$oid": "6a0e8469f6ac7931bd766acf"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "patientId": {
+    "$oid": "6a0d6b2f87affb0ff1ec7835"
+  },
+  "diagnosis": "123",
+  "medicines": [
+    {
+      "medicineId": {
+        "$oid": "6a0e80c656fd87169d13f495"
+      },
+      "quantity": 10,
+      "dosage": "10",
+      "frequency": "10",
+      "note": "",
+      "_id": {
+        "$oid": "6a0e84c971302a88c839da09"
+      }
+    }
+  ],
+  "advice": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-21T04:06:33.223Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:06:33.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0e856b71302a88c839dab7"
+  },
+  "appointmentId": {
+    "$oid": "6a0e853271302a88c839da80"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "patientId": {
+    "$oid": "6a0d6b2f87affb0ff1ec7835"
+  },
+  "diagnosis": "123",
+  "medicines": [
+    {
+      "medicineId": {
+        "$oid": "6a0e80c656fd87169d13f495"
+      },
+      "quantity": 10,
+      "dosage": "10",
+      "frequency": "10",
+      "note": "",
+      "_id": {
+        "$oid": "6a0e856b71302a88c839dab8"
+      }
+    }
+  ],
+  "advice": "",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-21T04:09:15.185Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-21T04:09:15.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a117113262598b1c627c1a2"
+  },
+  "appointmentId": {
+    "$oid": "6a1170abd37e640e2f379c97"
+  },
+  "doctorId": {
+    "$oid": "6a0d212723a1516cfce09a68"
+  },
+  "patientId": {
+    "$oid": "6a0d6b2f87affb0ff1ec7835"
+  },
+  "diagnosis": "123",
+  "medicines": [
+    {
+      "medicineId": {
+        "$oid": "6a0e80c656fd87169d13f495"
+      },
+      "quantity": 10,
+      "dosage": "10",
+      "frequency": "10",
+      "note": "11",
+      "_id": {
+        "$oid": "6a117113262598b1c627c1a3"
+      }
+    }
+  ],
+  "advice": "123",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-23T09:19:15.623Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T09:19:15.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a12629383dc8dc02e8b94e8"
+  },
+  "appointmentId": {
+    "$oid": "6a12602b83dc8dc02e8b9304"
+  },
+  "doctorId": {
+    "$oid": "6a118e0d58031eb053f8fd70"
+  },
+  "patientId": {
+    "$oid": "6a125f6e83dc8dc02e8b9154"
+  },
+  "diagnosis": "oke",
+  "medicines": [
+    {
+      "medicineId": {
+        "$oid": "6a118e0d58031eb053f8fda8"
+      },
+      "quantity": 3,
+      "dosage": "Uống",
+      "frequency": "2",
+      "note": null,
+      "_id": {
+        "$oid": "6a12629383dc8dc02e8b94e9"
+      }
+    }
+  ],
+  "advice": "uống sau ăn ",
+  "status": "active",
+  "createdAt": {
+    "$date": "2026-05-24T02:29:39.034Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-24T02:29:39.034Z"
+  },
+  "__v": 0
+}]

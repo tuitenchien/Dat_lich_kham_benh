@@ -1,0 +1,1300 @@
+[{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140e1"
+  },
+  "name": "Bệnh viện Đa khoa Quốc tế Vinmec",
+  "address": "Số 40 Tràng Thi, Hoàn Kiếm, Hà Nội",
+  "introduction": "Thời gian làm việc: Thứ 2 đến thứ 7\nSáng: 7h00 - 12h00\nChiều: 13h30 - 16h30\nBệnh viện Việt Đức là một trong 5 bệnh viện tuyến Trung ương, hạng đặc biệt của Việt Nam. Bệnh viện có lịch sử trên 100 năm, bề dày truyền thống danh tiếng, là cái nôi của ngành ngoại khoa Việt Nam gắn liền với những thành tựu Y học quan trọng của đất nước.\n\nViệt Đức là địa chỉ uy tín hàng đầu về ngoại khoa, tiến hành khám bệnh, chữa bệnh và thực hiện các kỹ thuật chụp chiếu, xét nghiệm, thăm dò chức năng cơ bản và chuyên sâu hàng ngày cho người dân.",
+  "professionalStrengths": "Bệnh viện Việt Đức là bệnh viện chuyên khoa Ngoại (phẫu thuật), có thế mạnh về khám, điều trị và Phẫu thuật nhiều chuyên khoa. Một số thế mạnh của Bệnh viện Việt Đức là:\n\n- Khám, điều trị, phẫu thuật về Thần kinh (Thần kinh I, Thần kinh II): Chấn thương; Bệnh lý sọ não; Tuỷ sống; Dây thần kinh ngoại vi; Ứng dụng nội soi trong phẫu thuật thần kinh; Phẫu thuật thần kinh chức năng; Phẫu thuật u nền sọ;...\n- Khám, điều trị, phẫu thuật về Cơ xương khớp.\n- Khám, điều trị, phẫu thuật về Chi trên và Y học thể thao: Khám các bệnh lý do chấn thương thể thao; Bệnh lý đứt dây chằng gối do chơi thể thao; Chấn thương chỉnh hình xương khớp; Phẫu thuật bàn tay; Bệnh lý cơ xương khớp về tay;...\n- Khám, điều trị, phẫu thuật về Chi dưới: Điều trị thoái hóa khớp gối, khớp háng; Bệnh lý đứt dây chằng gối; Phẫu thuật khớp gối, khớp háng, khớp cổ chân; Bệnh lý về chân;...\n- Khám, điều trị, phẫu thuật về Xương và điều trị ngoại trú.\n- Khám, điều trị, phẫu thuật về Tim mạch và lồng ngực.\n- Khám, điều trị, phẫu thuật về Tạo hình-Hàm mặt-Thẩm mỹ.\n- Khám, điều trị, phẫu thuật về Tiêu hóa.",
+  "equipment": "Bệnh viện Việt Đức được trang bị hầu hết các trang thiêt bị hiện đại hàng đầu hiện nay phục vụ trong chẩn đoán và thực hiện các xét nghiệm cơ bản, xét nghiệm kỹ thuật cao như các xét nghiệm theo dõi bệnh nhân ghép tạng, các xét nghiệm chỉ điểm khối u.\n\n- Xquang số hóa\n- Máy siêu âm\n- Máy chụp cắt lớp vi tính đa dãy CT Scan\n- Máy chụp cộng hưởng từ MRI 3.0 Tesla\n- Hệ thống chụp mạch máy chuyên dụng\n- Hệ thống PET/CT phát hiện ung thư sớm và đánh giá các bệnh lý tim mạch, thần kinh\n- Hệ thống máy sinh hóa miễn dịch tự động\n\nCác thiết bị thăm dò chức năng hỗ trợ thăm khám và thực hiện các thủ thuật nội soi tiêu hóa - gan mật:\n- Nội soi thực quản - dạ dày - tá tràng chẩn đoán\n- Nội soi đại trực tràng chẩn đoán\n- Nội soi đường mật - tụy ngược dòng ERCP",
+  "examinationProcess": "Quy trình khám dành cho người bệnh đặt khám thông qua BookingCare:\n1. Tới tòa nhà C4, lấy số thứ tự ưu tiên dành cho bệnh nhân đặt trước.\n2. Cung cấp mã đặt khám cho lễ tân để đóng phí khám ban đầu.\n3. Di chuyển tới phòng khám chuyên khoa theo hướng dẫn của nhân viên y tế.\n4. Khám lâm sàng với Bác sĩ.\n5. Đóng phí và thực hiện các chỉ định cận lâm sàng (nếu có).\n6. Mang kết quả quay lại phòng khám ban đầu để nghe bác sĩ kết luận.",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140e2"
+  },
+  "name": "Bệnh viện Bạch Mai",
+  "address": "201B Nguyễn Chí Thanh, Phường 12, Quận 5, TP.HCM",
+  "introduction": "Bệnh viện Chợ Rẫy là bệnh viện đa khoa hoàn chỉnh, xếp hạng Đặc biệt, trực thuộc Bộ Y tế. Là tuyến kỹ thuật sau cùng các tỉnh thành phía Nam, bệnh viện chuyên tiếp nhận các ca bệnh nặng, phức tạp từ các tuyến dưới chuyển lên.\n\nBệnh viện hoạt động 24/7 với năng lực chuyên môn và cơ sở vật chất hàng đầu cả nước, phục vụ hàng nghìn lượt bệnh nhân ngoại trú và nội trú mỗi ngày.",
+  "professionalStrengths": "Thế mạnh Nội khoa, Ngoại khoa và Hồi sức cấp cứu. Bệnh viện Chợ Rẫy nổi tiếng với các chuyên khoa như: Hồi sức cấp cứu (ICU), Chấn thương sọ não, Can thiệp tim mạch, Ghép tạng (Thận, Gan, Tim), và Ung bướu.\n\nĐặc biệt, đây là một trong những trung tâm hàng đầu về giải phẫu bệnh và chống độc tại Việt Nam.",
+  "equipment": "Sở hữu nhiều máy móc thuộc thế hệ mới nhất trên thế giới: Hệ thống PET/CT, Xạ trị gia tốc tuyến tính thế hệ mới, Hệ thống Robot phẫu thuật Da Vinci, Máy chụp cộng hưởng từ 3.0 Tesla, Hệ thống xét nghiệm tự động hóa hoàn toàn.",
+  "examinationProcess": "Do lượng bệnh nhân đông, người bệnh nên đặt khám trước qua app hoặc tổng đài.\n1. Đến cổng số 1 (Đường Nguyễn Chí Thanh), vào khu Khám bệnh hoặc khu Khám chuyên gia.\n2. Xác nhận thông tin và nhận số thứ tự điện tử.\n3. Khám chuyên khoa tại các phòng khám được chỉ định.\n4. Thực hiện cận lâm sàng tại khu tập trung.\n5. Trở lại phòng khám nhận phác đồ điều trị.",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.386Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140e3"
+  },
+  "name": "Bệnh viện Chợ Rẫy",
+  "address": "Số 30 Cầu Bươu, Tân Triều, Thanh Trì, Hà Nội",
+  "introduction": "Bệnh viện K là cơ sở chuyên khoa đầu ngành của cả nước về phòng chống và điều trị ung thư. Cơ sở Tân Triều là cơ sở mới, hiện đại và rộng rãi nhất, được thiết kế theo tiêu chuẩn quốc tế để mang lại không gian điều trị tốt nhất cho người bệnh.",
+  "professionalStrengths": "Chẩn đoán và điều trị đa mô thức bệnh lý Ung thư. Áp dụng các phác đồ điều trị tiên tiến kết hợp giữa Phẫu thuật, Hóa trị, Xạ trị, Điều trị đích và Miễn dịch.\n\nCác chuyên khoa thế mạnh: Ung thư vú, Ung thư tiêu hóa, Ung thư phổi, Ung thư đầu mặt cổ, và Ung thư phụ khoa.",
+  "equipment": "Hệ thống gia tốc tuyến tính LINAC hiện đại nhất, Máy xạ phẫu Gamma Knife, Hệ thống PET/CT hỗ trợ chẩn đoán chính xác giai đoạn bệnh. Phòng pha chế hóa chất tập trung áp lực âm vô trùng tuyệt đối.",
+  "examinationProcess": "1. Đăng ký khám sàng lọc ung thư tại quầy tiếp đón nhà A.\n2. Bác sĩ khám lâm sàng và chỉ định các xét nghiệm dấu ấn ung thư, sinh thiết, chẩn đoán hình ảnh.\n3. Nếu nghi ngờ hoặc có kết quả ác tính, hội chẩn đa chuyên khoa (Tumor Board) sẽ được tiến hành.\n4. Tư vấn phương pháp điều trị và nhập viện (nếu cần).",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140e4"
+  },
+  "name": "Phòng khám Đa khoa Tâm Anh",
+  "address": "108 Hoàng Như Tiếp, Long Biên, Hà Nội",
+  "introduction": "Bệnh viện Đa khoa Tâm Anh là hệ thống y tế tư nhân cao cấp, hội tụ đội ngũ chuyên gia đầu ngành, bác sĩ giàu kinh nghiệm, cùng cơ sở vật chất, trang thiết bị y tế hiện đại sánh ngang với các nước trong khu vực và trên thế giới. Dịch vụ chăm sóc tận tâm, không gian bệnh viện như khách sạn nghỉ dưỡng.",
+  "professionalStrengths": "Thế mạnh Hỗ trợ sinh sản (IVF Tâm Anh) với tỷ lệ thành công cao hàng đầu. Ngoài ra còn có Trung tâm Chấn thương chỉnh hình, Khoa Thần kinh - Đột quỵ, Sản phụ khoa, Tiết niệu - Nam học. Đội ngũ chuyên gia luôn cập nhật các kỹ thuật y khoa mới nhất.",
+  "equipment": "Phòng Lab nuôi cấy phôi siêu sạch ISO 5. Hệ thống máy móc nhập khẩu từ Đức, Nhật, Thụy Sĩ: Hệ thống định vị phẫu thuật thần kinh, Máy siêu âm tổng quát đàn hồi mô, Hệ thống xét nghiệm miễn dịch tự động.",
+  "examinationProcess": "Dịch vụ chuẩn VIP, có nhân viên chăm sóc khách hàng hỗ trợ 1 kèm 1.\n1. Đặt lịch trước để được sắp xếp Bác sĩ chuyên gia.\n2. Đến bệnh viện, vào thẳng phòng khám không cần xếp hàng lấy số.\n3. Hỗ trợ lấy mẫu xét nghiệm ngay tại phòng.\n4. Nhận tư vấn điều trị và thuốc được giao tận tay.",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a0c3170be219e39a45140e5"
+  },
+  "name": "Bệnh viện Đại học Y Dược",
+  "address": "458 Minh Khai, Hai Bà Trưng, Hà Nội",
+  "introduction": "Bệnh viện Đa khoa Quốc tế Vinmec Times City là bệnh viện đầu tiên trong chuỗi hệ thống y tế Vinmec đạt chứng chỉ JCI - tiêu chuẩn an toàn y tế khắt khe nhất thế giới. Không gian bệnh viện sang trọng, dịch vụ chuyên nghiệp chuẩn 5 sao.",
+  "professionalStrengths": "Nổi bật trong các lĩnh vực: Tim mạch, Ung bướu, Sản phụ khoa, và Tế bào gốc. Vinmec là một trong những đơn vị tiên phong ứng dụng liệu pháp tế bào gốc trong điều trị các bệnh lý tự kỷ, bại não, thoái hóa khớp.",
+  "equipment": "Hệ thống Robot phẫu thuật Da Vinci của Mỹ hỗ trợ phẫu thuật xâm lấn tối thiểu. Máy MRI 3.0 Tesla công nghệ Silent không tiếng ồn. Phòng mổ Hybrid tích hợp hiện đại nhất khu vực.",
+  "examinationProcess": "Khám theo giờ hẹn -> Trải nghiệm tiện nghi 5 sao tại phòng chờ -> Khám bệnh với bác sĩ chuyên khoa trong không gian riêng tư -> Hệ thống quản lý bệnh án điện tử giúp theo dõi sức khỏe trọn đời.",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-19T09:46:24.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc633"
+  },
+  "name": "Bệnh viện Từ Dũ",
+  "address": "Số 1 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc634"
+  },
+  "name": "Bệnh viện Nhi Đồng 1",
+  "address": "Số 2 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc635"
+  },
+  "name": "Bệnh viện Phụ sản Trung Ương",
+  "address": "Số 3 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.125Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc636"
+  },
+  "name": "Phòng khám Đa khoa Hoàn Mỹ",
+  "address": "Số 4 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc637"
+  },
+  "name": "Bệnh viện Mắt Trung Ương",
+  "address": "Số 5 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc638"
+  },
+  "name": "Bệnh viện Tai Mũi Họng",
+  "address": "Số 6 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc639"
+  },
+  "name": "Bệnh viện Răng Hàm Mặt",
+  "address": "Số 7 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc63a"
+  },
+  "name": "Bệnh viện Da Liễu",
+  "address": "Số 8 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc63b"
+  },
+  "name": "Bệnh viện Tim Tâm Đức",
+  "address": "Số 9 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc63c"
+  },
+  "name": "Bệnh viện Ung Bướu",
+  "address": "Số 10 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc63d"
+  },
+  "name": "Bệnh viện Chấn thương Chỉnh hình",
+  "address": "Số 11 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.128Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc63e"
+  },
+  "name": "Phòng khám Đa khoa Medlatec",
+  "address": "Số 12 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc63f"
+  },
+  "name": "Bệnh viện Quân y 103",
+  "address": "Số 13 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc640"
+  },
+  "name": "Bệnh viện Y học Cổ truyền",
+  "address": "Số 14 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc641"
+  },
+  "name": "Phòng khám Quốc tế City",
+  "address": "Số 15 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:23.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc642"
+  },
+  "name": "Bệnh viện Đa khoa Quốc tế Vinmec - Cơ sở 2",
+  "address": "Số 16 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.178Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc643"
+  },
+  "name": "Bệnh viện Bạch Mai - Cơ sở 2",
+  "address": "Số 17 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.179Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc644"
+  },
+  "name": "Bệnh viện Chợ Rẫy - Cơ sở 2",
+  "address": "Số 18 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc645"
+  },
+  "name": "Phòng khám Đa khoa Tâm Anh - Cơ sở 2",
+  "address": "Số 19 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.180Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118dddb5c93c39ee3bc646"
+  },
+  "name": "Bệnh viện Đại học Y Dược - Cơ sở 2",
+  "address": "Số 20 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:05.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89188"
+  },
+  "name": "Bệnh viện Từ Dũ - Cơ sở 2",
+  "address": "Số 1 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89189"
+  },
+  "name": "Bệnh viện Nhi Đồng 1 - Cơ sở 2",
+  "address": "Số 2 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.181Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8918a"
+  },
+  "name": "Bệnh viện Phụ sản Trung Ương - Cơ sở 2",
+  "address": "Số 3 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8918b"
+  },
+  "name": "Phòng khám Đa khoa Hoàn Mỹ - Cơ sở 2",
+  "address": "Số 4 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8918c"
+  },
+  "name": "Bệnh viện Mắt Trung Ương - Cơ sở 2",
+  "address": "Số 5 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8918d"
+  },
+  "name": "Bệnh viện Tai Mũi Họng - Cơ sở 2",
+  "address": "Số 6 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8918e"
+  },
+  "name": "Bệnh viện Răng Hàm Mặt - Cơ sở 2",
+  "address": "Số 7 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8918f"
+  },
+  "name": "Bệnh viện Da Liễu - Cơ sở 2",
+  "address": "Số 8 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89190"
+  },
+  "name": "Bệnh viện Tim Tâm Đức - Cơ sở 2",
+  "address": "Số 9 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89191"
+  },
+  "name": "Bệnh viện Ung Bướu - Cơ sở 2",
+  "address": "Số 10 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89192"
+  },
+  "name": "Bệnh viện Chấn thương Chỉnh hình - Cơ sở 2",
+  "address": "Số 11 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89193"
+  },
+  "name": "Phòng khám Đa khoa Medlatec - Cơ sở 2",
+  "address": "Số 12 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.184Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89194"
+  },
+  "name": "Bệnh viện Quân y 103 - Cơ sở 2",
+  "address": "Số 13 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89195"
+  },
+  "name": "Bệnh viện Y học Cổ truyền - Cơ sở 2",
+  "address": "Số 14 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89196"
+  },
+  "name": "Phòng khám Quốc tế City - Cơ sở 2",
+  "address": "Số 15 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89197"
+  },
+  "name": "Bệnh viện Đa khoa Quốc tế Vinmec - Cơ sở 3",
+  "address": "Số 16 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.185Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89198"
+  },
+  "name": "Bệnh viện Bạch Mai - Cơ sở 3",
+  "address": "Số 17 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d89199"
+  },
+  "name": "Bệnh viện Chợ Rẫy - Cơ sở 3",
+  "address": "Số 18 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8919a"
+  },
+  "name": "Phòng khám Đa khoa Tâm Anh - Cơ sở 3",
+  "address": "Số 19 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118df4da64c08225d8919b"
+  },
+  "name": "Bệnh viện Đại học Y Dược - Cơ sở 3",
+  "address": "Số 20 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:28.009Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.186Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd41"
+  },
+  "name": "Bệnh viện Từ Dũ - Cơ sở 3",
+  "address": "Số 1 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.017Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.187Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd42"
+  },
+  "name": "Bệnh viện Nhi Đồng 1 - Cơ sở 3",
+  "address": "Số 2 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.017Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.187Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd43"
+  },
+  "name": "Bệnh viện Phụ sản Trung Ương - Cơ sở 3",
+  "address": "Số 3 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd44"
+  },
+  "name": "Phòng khám Đa khoa Hoàn Mỹ - Cơ sở 3",
+  "address": "Số 4 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd45"
+  },
+  "name": "Bệnh viện Mắt Trung Ương - Cơ sở 3",
+  "address": "Số 5 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd46"
+  },
+  "name": "Bệnh viện Tai Mũi Họng - Cơ sở 3",
+  "address": "Số 6 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.189Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd47"
+  },
+  "name": "Bệnh viện Răng Hàm Mặt - Cơ sở 3",
+  "address": "Số 7 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.189Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd48"
+  },
+  "name": "Bệnh viện Da Liễu - Cơ sở 3",
+  "address": "Số 8 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.189Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd49"
+  },
+  "name": "Bệnh viện Tim Tâm Đức - Cơ sở 3",
+  "address": "Số 9 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd4a"
+  },
+  "name": "Bệnh viện Ung Bướu - Cơ sở 3",
+  "address": "Số 10 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd4b"
+  },
+  "name": "Bệnh viện Chấn thương Chỉnh hình - Cơ sở 3",
+  "address": "Số 11 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd4c"
+  },
+  "name": "Phòng khám Đa khoa Medlatec - Cơ sở 3",
+  "address": "Số 12 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd4d"
+  },
+  "name": "Bệnh viện Quân y 103 - Cơ sở 3",
+  "address": "Số 13 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd4e"
+  },
+  "name": "Bệnh viện Y học Cổ truyền - Cơ sở 3",
+  "address": "Số 14 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd4f"
+  },
+  "name": "Phòng khám Quốc tế City - Cơ sở 3",
+  "address": "Số 15 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd50"
+  },
+  "name": "Bệnh viện Đa khoa Quốc tế Vinmec - Cơ sở 4",
+  "address": "Số 16 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd51"
+  },
+  "name": "Bệnh viện Bạch Mai - Cơ sở 4",
+  "address": "Số 17 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_2.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd52"
+  },
+  "name": "Bệnh viện Chợ Rẫy - Cơ sở 4",
+  "address": "Số 18 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_3.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd53"
+  },
+  "name": "Phòng khám Đa khoa Tâm Anh - Cơ sở 4",
+  "address": "Số 19 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_4.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.192Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6a118e0d58031eb053f8fd54"
+  },
+  "name": "Bệnh viện Đại học Y Dược - Cơ sở 4",
+  "address": "Số 20 Đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "introduction": "",
+  "professionalStrengths": "",
+  "equipment": "",
+  "examinationProcess": "",
+  "image": "/images/clinic_5.png",
+  "isActive": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T11:22:53.018Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T11:38:58.192Z"
+  }
+}]
